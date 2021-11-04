@@ -993,3 +993,5 @@ http://iptvglobal.site:25461/1UX06x11/nov067.33p/79800
 http://iptvglobal.site:25461/1UX06x11/nov067.33p/56969
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="WIN+" group-title="Deportes",WIN+
 http://rosespace.live:25461/08Ptvfc209/08093.22p/534
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.4rb93LxQbW5nNyv44rytfAHaLH?pid=ImgDet&rs=1" tvg-name="Spider-Man Homecoming" group-title="Movie", Spider-Man Homecoming
+http://iptvglobal.site:25461/movie/1UX06x11/nov067.33p/12052.mp4
