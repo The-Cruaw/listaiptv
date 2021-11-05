@@ -993,5 +993,7 @@ http://iptvglobal.site:25461/1UX06x11/nov067.33p/79800
 http://iptvglobal.site:25461/1UX06x11/nov067.33p/56969
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sky_Televison_logo.svg/1200px-Sky_Televison_logo.svg.png" tvg-name="WIN+" group-title="Deportes",WIN+
 http://rosespace.live:25461/08Ptvfc209/08093.22p/534
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.4rb93LxQbW5nNyv44rytfAHaLH?pid=ImgDet&rs=1" tvg-name="Spider-Man Homecoming" group-title="Movie", Spider-Man Homecoming
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.4rb93LxQbW5nNyv44rytfAHaLH?pid=ImgDet&rs=1" tvg-name="Spider-Man Homecoming" group-title="Movies", Spider-Man Homecoming
 http://iptvglobal.site:25461/movie/1UX06x11/nov067.33p/12052.mp4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.1b7202fcc64c0528cb903862a476d05e?rik=Ck9UBUkCstXG9w&pid=ImgRaw&r=0" tvg-name="Spider-Man Far From Home" group-title="Movies", Spider-Man Far From Home
+http://iptvglobal.site:25461/movie/1UX06x11/nov067.33p/69851.mkv
