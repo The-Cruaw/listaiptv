@@ -1126,7 +1126,7 @@ http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12376.mp4
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12377.mp4
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.lyZVeA1oMda72Ah0UdfLfQHaK-?pid=ImgDet&rs=1" tvg-name="Wonder Woman 1984" group-title="Movies", Wonder Woman 1984
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12378.mp4
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.eiIR9Xr1abBReWgmYMBoYAHaKX?pid=ImgDet&rs=1" tvg-name="Justice League
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.eiIR9Xr1abBReWgmYMBoYAHaKX?pid=ImgDet&rs=1" tvg-name="Justice League" group-title="Movies", Justice League
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/14252.mp4
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.t6e3J46qA0OHvdsm2cJjFQHaK6?pid=ImgDet&rs=1" tvg-name="It Chapter Two" group-title="Movies", It Chapter Two
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/13531.mp4
@@ -1194,7 +1194,7 @@ http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12376.mp4
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12377.mp4
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.lyZVeA1oMda72Ah0UdfLfQHaK-?pid=ImgDet&rs=1" tvg-name="Wonder Woman 1984" group-title="DC Comics", Wonder Woman 1984
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/12378.mp4
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.eiIR9Xr1abBReWgmYMBoYAHaKX?pid=ImgDet&rs=1" tvg-name="Justice League
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.eiIR9Xr1abBReWgmYMBoYAHaKX?pid=ImgDet&rs=1" tvg-name="Justice League" group-title="DC Comics", Justice League
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/14252.mp4
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.t6e3J46qA0OHvdsm2cJjFQHaK6?pid=ImgDet&rs=1" tvg-name="It Chapter Two" group-title="Terror", It Chapter Two
 http://iptvglobal.site:25461/movie/LUX06x12/nov063x22/13531.mp4
